@@ -1,5 +1,4 @@
-# with open('crud.py','w') as f:
-#     f.write('import sqlite3\n')
+
 
 from crud import add_task, show_tasks, count_tasks, delete_task,update_task,complete_task,search_task,show_completed_task
 
